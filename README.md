@@ -24,13 +24,13 @@
     <img   height= "250px" src="./assets/itachi02.gif">
 </div>
 <div>
-    <img height="50px"  src="./assets/aboutmeblue.png">
-    <img align="right" height="300px" src="./assets/pc.gif">
-     <p>&nbsp;&nbsp;&nbsp;&nbsp;📌 Since 06/14/22 I study <b><i>Web Development</i></b>, mastering the technologies to become a <b>Front-end Developer.</b></p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;🧬 Soft Skills: Teamwork, proactive, communicative, creative thinking.</p>
+    <h2>👨‍💻About me</h2>
+    <img align="right" height="400px" src="./assets/pc.gif">
+     📌 Since 06/14/22 I study <b><i>Web Development</i></b>, mastering the technologies to become a <b>Front-end Developer.</b></p>
+    💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
+    🧬 Soft Skills: Teamwork, proactive, communicative, creative thinking.</p>
     <div>
-    &nbsp;&nbsp;<img height="40px" src="./assets/hardskillblue.png"><br>
+      <h2> ⚡ Hard skill</h2>
        &nbsp; <img height="40px" src="./assets/photoshop.svg"> 
        &nbsp;<img height="40px" src="./assets/windows.svg">
        &nbsp;<img height="40px" src="./assets/vscoode.svg">
@@ -40,14 +40,13 @@
        &nbsp;<img height="40px" src="./assets/css3-original.svg"> 
     </div>
     <br>
-    &nbsp;&nbsp;<img height="40px" src="./assets/techblue.png"><br>
+    <h2>📚Technologies I am currently studying</h2>
       &nbsp; <img height="40px" src="./assets/javascript.svg"> 
        &nbsp;<img height="40px" src="./assets/notejs.svg">
        &nbsp;<img height="40px" src="./assets/react.svg">
 </div>
-<div>
-  <img height="50px" src="./assets/whereblue.png">
-
+<div><br>
+<h2>🌐Where to find me</h2>
   <a href="https://github.com/jonathandesb" target="_blank">
     &nbsp;&nbsp; <img height="32px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
