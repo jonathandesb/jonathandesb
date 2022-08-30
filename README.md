@@ -70,7 +70,7 @@
 
      
   </div><br><br><br>
-  <div>
+  <div align="center">
     <a href="https://github.com/jonathandesb">
       <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonathandesb&theme=radical">
       <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandesb&show_icons=true&theme=radical">
