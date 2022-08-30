@@ -22,11 +22,10 @@
 
 <div align="center">
     <img   height= "250px" src="./assets/itachi02.gif">
-    
 </div>
 <div>
     <img height="50px"  src="./assets/aboutmeblue.png">
-    <img align="right" src="./assets/pc.gif">
+    <img align="right" height="300px" src="./assets/pc.gif">
      <p>&nbsp;&nbsp;&nbsp;&nbsp;📌 Since 06/14/22 I study <b><i>Web Development</i></b>, mastering the technologies to become a <b>Front-end Developer.</b></p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
     <p>&nbsp;&nbsp;&nbsp;&nbsp;🧬 Soft Skills: Teamwork, proactive, communicative, creative thinking.</p>
