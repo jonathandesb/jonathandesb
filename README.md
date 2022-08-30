@@ -45,7 +45,7 @@
        &nbsp;<img height="40px" src="./assets/notejs.svg">
        &nbsp;<img height="40px" src="./assets/react.svg">
 </div>
-<div><br>
+<div>
 <h2 align="center">🌐Where to find me</h2>
   <div align="center">
     <a href="https://github.com/jonathandesb" target="_blank">
