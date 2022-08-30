@@ -74,8 +74,12 @@
     <a href="https://github.com/jonathandesb">
       <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonathandesb&theme=radical">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandesb&show_icons=true&theme=radical">
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandesb&layout=compact">
 
   
+
+
+
 
  ![Snake animation](https://github.com/jonathandesb/jonathandesb/blob/output/github-contribution-grid-snake.svg)
 
