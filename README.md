@@ -74,7 +74,12 @@
       <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonathandesb&theme=radical">
       <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandesb&show_icons=true&theme=radical">
  
+ <div align="center">
+
  ![Snake animation](https://github.com/jonathandesb/jonathandesb/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
+ <img alt="github contribution snake animation" src="https://github.com/jonathandesb/jonathandesb/blob/output/github-contribution-grid-snake.svg">
     </div>
   </div>
 </div>
