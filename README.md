@@ -67,8 +67,11 @@
     </a>
     <a href="https://www.deviantart.com/zyoshii" target="_blank">
       &nbsp; <img height="32px" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white">
+
+      
     </a>
   </div>
+  <img src="./assets/vscoode.svg">
 </div>
   
 
