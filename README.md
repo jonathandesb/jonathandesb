@@ -68,28 +68,15 @@
     <a href="https://www.deviantart.com/zyoshii" target="_blank">
       &nbsp; <img height="32px" src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white">
 
-     
-  </div><br><br><br>
-  <div align="center">
+  </div><br>
+    <div align="center">
     <a href="https://github.com/jonathandesb">
       <img height="130em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jonathandesb&theme=radical">
       <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api?username=jonathandesb&show_icons=true&theme=radical">
-      <a href="https://github.com/anuraghazra/github-readme-stats"><br>
-        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathandesb&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages"/>
-    </a>
-
-
-
+ 
  ![Snake animation](https://github.com/jonathandesb/jonathandesb/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br>
-
-
-
-
-</div>
+    </div>
+  </div>
 </div>
   
 
