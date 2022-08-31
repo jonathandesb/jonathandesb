@@ -24,11 +24,11 @@
     <img   height= "250px" src="./assets/itachi02.gif">
 </div>
 <div>
-    <h2>👨‍💻About me</h2>
+    <h2>👨‍💻 Sobre mim</h2>
     <img align="right" height="400px" src="./assets/pc.gif">
-     📌 Since 06/14/22 I study <b><i>Web Development</i></b>, mastering the technologies to become a <b>Front-end Developer.</b></p>
-    💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
-    🧬 Soft Skills: Teamwork, proactive, communicative, creative thinking.</p>
+     <p>📌Eaí, pessoal, me chamo Jonathan de Sousa, tenho 23 anos e sou do Rio de Janeiro. Desde 14/06/22 venho estudando progamação, com foco em me tornar um Desenvolvedor Front-End.</p>
+    <p>💆🏽‍♂️ Estou sempre buscando conhecimento diariamente. Eu posso aprender rapidamente o que é necessário para manter o processo em andamento. Acredito que sempre precisamos aprender, pensar fora da caixa e sair da nossa zona de conforto.</p>  
+    <p>🧬 Soft Skills: Trabalho em equipe, proativo, comunicativo, pensamento criativo.</p>
     <div>
       <h2> ⚡ Hard skill</h2>
        &nbsp; <img height="40px" src="./assets/photoshop.svg"> 
@@ -40,13 +40,13 @@
        &nbsp;<img height="40px" src="./assets/css3-original.svg"> 
     </div>
     <br>
-    <h2>📚Technologies I am currently studying</h2>
+    <h2>📚Tecnologias que estou estudando atualmente</h2>
       &nbsp; <img height="40px" src="./assets/javascript.svg"> 
        &nbsp;<img height="40px" src="./assets/notejs.svg">
        &nbsp;<img height="40px" src="./assets/react.svg">
 </div>
 <div>
-<h2 align="center">🌐Where to find me</h2>
+<h2 align="center">🌐Onde me encontrar</h2>
   <div align="center">
     <a href="https://github.com/jonathandesb" target="_blank">
       &nbsp;&nbsp; <img height="32px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
