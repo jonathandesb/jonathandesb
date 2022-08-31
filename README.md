@@ -4,7 +4,7 @@
   <tr>
     <td>
       <b>
-        <a href="">🇧🇷 Português</a>
+        <a href="https://github.com/jonathandesb/jonathandesb/blob/main/README_pt-br.md">🇧🇷 Português</a>
       </b>
     </td>
     <td>
