@@ -15,7 +15,7 @@
   </tr>
 </table>
 <div align="center" >
-  <img width="350px" height="90px" src="./assets/helloworld.gif">
+  <img width="350px" height="90px" src="./assets/">
 
    &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0086F7&width=435&lines=My+name+is+Jonathan+de+Sousa;+Welcome+to+my+profile++%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 </div>
@@ -25,7 +25,7 @@
 </div>
 <div>
     <h2>👨‍💻 Sobre mim</h2>
-    <img align="right" height="400px" src="./assets/pc.gif">
+    <img align="right" height="400px" src="./assets/">
      <p>📌Eaí, pessoal, me chamo Jonathan de Sousa, tenho 23 anos e sou do Rio de Janeiro. Desde 14/06/22 venho estudando progamação, com foco em me tornar um Desenvolvedor Front-End.</p>
     <p>💆🏽‍♂️ Estou sempre buscando conhecimento diariamente. Eu posso aprender rapidamente o que é necessário para manter o processo em andamento. Acredito que sempre precisamos aprender, pensar fora da caixa e sair da nossa zona de conforto.</p>  
     <p>🧬 Soft Skills: Trabalho em equipe, proativo, comunicativo, pensamento criativo.</p>
