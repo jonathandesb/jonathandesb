@@ -15,7 +15,7 @@
   </tr>
 </table>
 <div align="center" >
-  <img width="350px" height=90px" src="./assets/helloworld.gif">
+  <img width="350px" height=90px" src="./">
 
    &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0086F7&width=435&lines=My+name+is+Jonathan+de+Sousa;+Welcome+to+my+profile++%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
 </div>
@@ -25,7 +25,7 @@
 </div>
 <div>
     <h2>👨‍💻About me</h2>
-    <img align="right" height="400px" src="./assets/pc.gif">
+    <img align="right" height="400px" src="./">
      📌Hey guys, my name is Jonathan de Sousa, I'm 23 years old and I'm from Rio de Janeiro. Since 06/14/22 I have been studying programming, focusing on becoming a <b><i>Front-End Developer.</i></b></p>
     💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
     🧬 <b>Soft Skills:</b> Teamwork, proactive, communicative, creative thinking.</p>
