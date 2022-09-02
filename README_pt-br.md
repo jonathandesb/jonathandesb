@@ -25,7 +25,7 @@
 </div>
 <div>
     <h2>👨‍💻 Sobre mim</h2>
-    <img align="right" height="400px" src="./assets/pc.gif">
+    <img align="right" height="400px" src="./assets/pczin.gif">
      <p>📌Eaí, pessoal, me chamo Jonathan de Sousa, tenho 23 anos e sou do Rio de Janeiro. Desde 14/06/22 venho estudando progamação, com foco em me tornar um Desenvolvedor Front-End.</p>
     <p>💆🏽‍♂️ Estou sempre buscando conhecimento diariamente. Eu posso aprender rapidamente o que é necessário para manter o processo em andamento. Acredito que sempre precisamos aprender, pensar fora da caixa e sair da nossa zona de conforto.</p>  
     <p>🧬 Soft Skills: Trabalho em equipe, proativo, comunicativo, pensamento criativo.</p>

@@ -25,7 +25,7 @@
 </div>
 <div>
     <h2>👨‍💻About me</h2>
-    <img align="right" height="400px" src="./assets/pc.gif">
+    <img align="right" height="400px" src="./assets/pczin.gif">
      📌Hey guys, my name is Jonathan de Sousa, I'm 23 years old and I'm from Rio de Janeiro. Since 06/14/22 I have been studying programming, focusing on becoming a <b><i>Front-End Developer.</i></b></p>
     💆🏽‍♂️ I am always seeking knowledge daily. I can quickly learn what is needed to keep the process going. I believe we always need to learn, think outside the box and step out of our comfort zone.</p>  
     🧬 <b>Soft Skills:</b> Teamwork, proactive, communicative, creative thinking.</p>
