@@ -23,7 +23,6 @@
 <div align="center">
 
 
-  <img   height= "250px" src="./assets/itachi02.gif">
 
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffbe0d&width=435&lines=My+name+is+Jonathan+de+Sousa;+Welcome+to+my+profile++%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
